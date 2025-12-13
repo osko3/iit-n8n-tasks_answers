@@ -1,5 +1,5 @@
 # Short explanation:
-In this exercise, you build a workflow in n8n that receives a note via a Webhook, adds a timestamp, and appends it to a notes.txt file in your Codespace. You then test the workflow and ensure the notes are logged correctly.
+In this exercise, I build a workflow in n8n that receives a note via a Webhook, adds a timestamp, and appends it to a notes.txt file in my Codespace. I then test the workflow and ensure the notes are logged correctly.
 
 # Screenshots:
 ![C1](C1.png)
